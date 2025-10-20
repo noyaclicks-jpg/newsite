@@ -1,0 +1,17 @@
+{
+  "placeId": "ChIJPfMtJfkjTIYRrKwHtPoe8fc",
+  "coordinates": {
+    "lat": 33.0184452,
+    "lng": -96.7939512
+  },
+  "name": "Air Care Pro",
+  "address": "1400 Preston Rd Suite 402, Plano, TX 75093, USA",
+  "phone": "(972) 449-9777",
+  "rating": 5,
+  "reviewCount": 15,
+  "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3347.8!2d-96.7939512!3d33.0184452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e23f925ed33f3%3A0xf7f11e3eb407ac6c!2sAir%20Care%20Pro!5e0!3m2!1sen!2sus!4v1234567890",
+  "utmLinks": {
+    "footer": "https://maps.app.goo.gl/zcamn3Jb59jwGP166?utm_source=website&utm_medium=footer&utm_campaign=local",
+    "cta": "https://maps.app.goo.gl/zcamn3Jb59jwGP166?utm_source=website&utm_medium=cta&utm_campaign=reviews"
+  }
+}

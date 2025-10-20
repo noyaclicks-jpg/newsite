@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Yehuda Bakshi",
+    "city": "Plano",
+    "rating": 5,
+    "service": "Air Duct Cleaning",
+    "text": "I had a great experience with this air duct cleaning company. They cleaned all the vents in my house and took care of my dryer vent as well. The team was on time, professional, and did a thorough job. I can already feel the air flowing better. Highly recommend!",
+    "date": "2025-08-15"
+  },
+  {
+    "name": "Lior Refael",
+    "city": "Dallas",
+    "rating": 5,
+    "service": "Air Duct Cleaning",
+    "text": "They arrive on time was easy to setup the appointment on their website definitely recommend them if you need air duct cleaning service in dallas area",
+    "date": "2025-07-10"
+  },
+  {
+    "name": "Alivia Gracie",
+    "city": "McKinney",
+    "rating": 5,
+    "service": "Dryer Vent Cleaning",
+    "text": "Air Care Pro did an excellent job on our dryer vent cleaning. They worked quickly and efficiently, and now my dryer runs much better. Highly recommended for their quality service.",
+    "date": "2025-10-12"
+  },
+  {
+    "name": "Marcus Johnson",
+    "city": "Frisco",
+    "rating": 5,
+    "service": "Chimney Sweep",
+    "text": "Professional chimney sweep service before winter. They found some minor issues and explained everything clearly. Very thorough inspection and cleaning. Great communication throughout the process.",
+    "date": "2025-09-22"
+  },
+  {
+    "name": "Sarah Mitchell",
+    "city": "Allen",
+    "rating": 5,
+    "service": "Air Duct Cleaning",
+    "text": "Our home had terrible allergies issues. After Air Care Pro cleaned our ducts and applied sanitization treatment, the difference was immediate. Kids are breathing easier and we're all sleeping better. Worth every penny!",
+    "date": "2025-08-28"
+  },
+  {
+    "name": "Robert Chen",
+    "city": "Richardson",
+    "rating": 5,
+    "service": "New Construction Cleaning",
+    "text": "Had them clean our new home's ducts before moving in. They removed an unbelievable amount of construction dust. So glad we did this before moving our family in. Professional and thorough.",
+    "date": "2025-07-15"
+  },
+  {
+    "name": "Jennifer Hayes",
+    "city": "Carrollton",
+    "rating": 5,
+    "service": "Dryer Vent Cleaning",
+    "text": "Our dryer was taking forever to dry clothes. They cleaned our vent and it was packed with lint - a fire waiting to happen! Now it dries in half the time. Thank you for keeping us safe!",
+    "date": "2025-09-05"
+  },
+  {
+    "name": "David Torres",
+    "city": "Grapevine",
+    "rating": 5,
+    "service": "Commercial Duct Cleaning",
+    "text": "We run a busy office and needed duct cleaning that wouldn't disrupt business. They worked on a Saturday and did an amazing job. Employees have commented on how much better the air quality is. Highly professional service.",
+    "date": "2025-08-01"
+  },
+  {
+    "name": "Emily Watson",
+    "city": "Lewisville",
+    "rating": 5,
+    "service": "Insulation Inspection",
+    "text": "They did a thorough insulation inspection and found we were way under-insulated. Their recommendations helped us cut our energy bill significantly. Very knowledgeable and honest about what we needed.",
+    "date": "2025-09-18"
+  },
+  {
+    "name": "Michael Brown",
+    "city": "Southlake",
+    "rating": 5,
+    "service": "HVAC Sanitization",
+    "text": "After air duct cleaning, they recommended sanitization because we have young kids. The musty smell in our vents is completely gone. Technician was very professional and explained everything thoroughly.",
+    "date": "2025-07-28"
+  },
+  {
+    "name": "Lisa Anderson",
+    "city": "Flower Mound",
+    "rating": 5,
+    "service": "Pet Odor Removal",
+    "text": "We have three dogs and the pet smell was getting out of control. Air Care Pro's pet odor removal service worked wonders! House smells fresh again and the process was completely safe for our pets.",
+    "date": "2025-08-12"
+  },
+  {
+    "name": "James Wilson",
+    "city": "Keller",
+    "rating": 5,
+    "service": "Emergency Service",
+    "text": "Called them at 11pm when we smelled smoke from our dryer. They came out within 45 minutes! Turned out our dryer vent was completely clogged. They may have saved our house. Can't thank them enough for the emergency response.",
+    "date": "2025-09-30"
+  }
+]
